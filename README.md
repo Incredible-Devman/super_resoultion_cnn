@@ -1,8 +1,7 @@
 [TensorFlow] Super-Resolution CNN 
 =====
 
-TensorFlow implementation of 'Image Super-Resolution using Deep Convolutional Network'. PyTorch version is also provided in <a href="https://github.com/YeongHyeon/Super-Resolution_CNN-PyTorch">Related Repository</a>.
-
+TensorFlow implementation of 'Image Super-Resolution using Deep Convolutional Network'.
 ## Architecture
 <div align="center">
   <img src="./readme/srcnn.png" width="700">  
@@ -26,10 +25,3 @@ The architecture constructed by three convolutional layers, and the kernel size 
 * Tensorflow 1.14.0  
 * Numpy 1.14.0  
 * Matplotlib 3.1.1  
-
-## Reference
-[1] Image Super-Resolution Using Deep Convolutional Networks, Chao Dong et al., https://ieeexplore.ieee.org/abstract/document/7115171/  
-[2] Urban 100 dataset, Huang et al.,  https://sites.google.com/site/jbhuang0604/publications/struct_sr  
-
-First commit: 21.April.2018  
-Version Update: 28.August.2019  
